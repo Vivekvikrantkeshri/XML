@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+
+  <book category="cooking">
+    <title lang="en">Gazal</title>
+    <author>Rama</author>
+    <year>2006</year>
+    <price>3000</price>
+  </book>
+
+  <book category="children">
+    <title lang="en">Poetry</title>
+    <author>Shanu</author>
+    <year>2015</year>
+    <price>2299</price>
+  </book>
+
+  <book category="web">
+    <title lang="en">Shaam Savera</title>
+    <author>Rajan</author>
+    <author>Rohan</author>
+    <author>Kunal</author>
+    <author>Satish</author>
+    <author>Dinesh</author>
+    <year>2013</year>
+    <price>4949</price>
+  </book>
+
+  <book category="web" cover="paperback">
+    <title lang="en">Create Task</title>
+    <author>Jonny</author>
+    <year>2010</year>
+    <price>5000</price>
+  </book>
+
+</bookstore>
